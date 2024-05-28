@@ -18,7 +18,7 @@ public class T02GenericClassTest {
  	}
  	...
  }
-	 
+	 암 건나
 -- 제너릭타입글자 --
 T => Type 
 K => Key 
